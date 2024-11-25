@@ -71,6 +71,10 @@ Jälleen törmäsin ongelmaan, kun en jostain syystä saa isäntäkoneelta pinga
 
 
 
+Jatkettu 25.11. 
+
+Totesin, että helpoin on tuhota vagrant koneet ja luoda ne uudelleen, ku ongelmat eivät selvinneet. 
+
 
 
 
